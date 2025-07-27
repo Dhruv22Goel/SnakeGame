@@ -32,10 +32,21 @@ This is a visually enhanced version of the classic Snake game built using Python
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/yourusername/enhanced-snake-game.git
 cd enhanced-snake-game
 
+### 2. Run the Game
+Make sure Python 3 is installed on your system.
 
-### 2. Run the Code
 python Main.py
+
+
+## Requirements
+This game uses only Python standard libraries.
+
+✅ Python 3.6+
+
+✅ turtle (included with Python)
+
+✅ random (included with Python)
