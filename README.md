@@ -35,3 +35,7 @@ This is a visually enhanced version of the classic Snake game built using Python
 ```bash
 git clone https://github.com/yourusername/enhanced-snake-game.git
 cd enhanced-snake-game
+
+
+### 2. Run the Code
+python Main.py
